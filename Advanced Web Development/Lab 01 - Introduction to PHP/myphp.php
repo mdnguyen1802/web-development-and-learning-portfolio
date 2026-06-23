@@ -3,8 +3,8 @@
 <head>
     <title>My First PHP Webpage</title>
     <meta charset = "utf-8">
-    <meta name = "description" content = "Web development">
-    <meta name = "keywords" content = "HTML, CSS, JavaScript">
+    <meta name = "description" content = "Advanced Web Development">
+    <meta name = "keywords" content = "HTML, CSS, JavaScript, PHP">
     <meta name = "author" content = "Minh Duc Nguyen">
 </head>
 
